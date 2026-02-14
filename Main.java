@@ -8,8 +8,8 @@ public class Main {
         long n = Long.parseLong(br.readLine().trim());
         StringBuilder  sb = new StringBuilder();
         while(true){
-            if(n ==1) break;
             sb.append(n);
+            if(n ==1) break;
             sb.append(" ");
 
             if(n%2 == 0){
