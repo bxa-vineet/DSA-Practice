@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
