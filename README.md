@@ -34,11 +34,13 @@
 | [0048-rotate-image](https://github.com/bxa-vineet/DSA-Practice/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bxa-vineet/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bxa-vineet/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bxa-vineet/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
