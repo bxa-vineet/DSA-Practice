@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -62,8 +63,17 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
