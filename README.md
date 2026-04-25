@@ -31,9 +31,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
