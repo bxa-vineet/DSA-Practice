@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bxa-vineet/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/bxa-vineet/DSA-Practice/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,5 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/bxa-vineet/DSA-Practice/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
