@@ -37,6 +37,7 @@
 | [0048-rotate-image](https://github.com/bxa-vineet/DSA-Practice/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/bxa-vineet/DSA-Practice/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/bxa-vineet/DSA-Practice/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/bxa-vineet/DSA-Practice/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
