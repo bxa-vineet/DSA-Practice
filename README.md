@@ -21,10 +21,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Merge Sort
@@ -40,6 +42,7 @@
 | [0057-insert-interval](https://github.com/bxa-vineet/DSA-Practice/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/bxa-vineet/DSA-Practice/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bxa-vineet/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bxa-vineet/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -91,4 +95,8 @@
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/bxa-vineet/DSA-Practice/tree/master/0860-lemonade-change) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
