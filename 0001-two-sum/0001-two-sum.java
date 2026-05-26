@@ -22,21 +22,31 @@ class Solution {
 
         // }  
         // return ans;
-        int n = nums.length;
-        int[] ans = new int[2];
-        ans[0] = ans[1] = -1;
-        HashMap<Integer, Integer> mpp = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            int num = nums[i];
-            int moreNeeded = target - num;
-            if (mpp.containsKey(moreNeeded)) {
-                ans[0] = mpp.get(moreNeeded);
-                ans[1] = i;
-                return ans;
-            }
+       int n = nums.length;
+       int arr[] = new int[2];
+       if(n == 2 && nums[0] + nums[1] == target){
+        arr[0] = 0;
+        arr[1] = 1;
+        return arr;
 
-            mpp.put(nums[i], i);
+       }
+       arr[0]= -1;
+       arr[1] = -1;
+       HashMap<Integer,Integer> map = new HashMap<>();
+       for(int i=0; i<n; i++){
+        int sum = nums[i];
+        int moreNeeded = target - sum;
+        if(map.containsKey(moreNeeded)){
+            arr[0] = i;
+            arr[1] = map.get(moreNeeded);
+            return arr;
         }
-        return ans;
+
+        if(!map.containsKey(sum)){
+            map.put(sum,i);
+        }
+       }
+       return arr;
+
     }
 }
