@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bxa-vineet/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/bxa-vineet/DSA-Practice/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/bxa-vineet/DSA-Practice/tree/master/0057-insert-interval) |
