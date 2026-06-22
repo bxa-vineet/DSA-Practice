@@ -21,6 +21,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bxa-vineet/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 ## Sorting
@@ -43,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/bxa-vineet/DSA-Practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/bxa-vineet/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/bxa-vineet/DSA-Practice/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/bxa-vineet/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bxa-vineet/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bxa-vineet/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bxa-vineet/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
