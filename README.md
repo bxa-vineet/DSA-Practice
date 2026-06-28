@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bxa-vineet/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/bxa-vineet/DSA-Practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/bxa-vineet/DSA-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/bxa-vineet/DSA-Practice/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -120,4 +122,12 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/bxa-vineet/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bxa-vineet/DSA-Practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bxa-vineet/DSA-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
