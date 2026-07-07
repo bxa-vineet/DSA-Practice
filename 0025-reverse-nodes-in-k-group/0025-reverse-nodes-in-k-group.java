@@ -11,27 +11,28 @@
 class Solution {
 
     public ListNode reverseKGroup(ListNode head, int k) {
+       ListNode temp = head;
        int count = 0;
-        ListNode temp = head;
-        while(count<k){
-            if(temp == null){
-                return head;
-            }
-            temp = temp.next;
-            count++;
+       while(count<k){
+        if(temp == null){
+            return head;
         }
+        temp = temp.next;
+        count++;
+       }
 
-        ListNode prev = reverseKGroup(temp,k);
-        temp = head;
-        count = 0;
-        ListNode next  = null;
-        while(count < k){
-            next = temp.next;
-            temp.next = prev;
-            prev = temp;
-            temp = next;
-            count++;
-        }
-        return prev;
+       ListNode prevNode = reverseKGroup(temp,k);
+       count  =  0;
+       temp = head;
+       ListNode next = null;
+       while(count<k){
+        next = temp.next;
+        temp.next = prevNode;
+        prevNode = temp;
+        temp = next;
+        count++;
+       }
+       return prevNode;
+
     }
 }
