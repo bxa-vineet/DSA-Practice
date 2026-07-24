@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/bxa-vineet/DSA-Practice/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
