@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bxa-vineet/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bxa-vineet/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bxa-vineet/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bxa-vineet/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bxa-vineet/DSA-Practice/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bxa-vineet/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
