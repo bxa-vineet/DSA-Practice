@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bxa-vineet/DSA-Practice/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1903-largest-odd-number-in-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0455-assign-cookies](https://github.com/bxa-vineet/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/bxa-vineet/DSA-Practice/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
