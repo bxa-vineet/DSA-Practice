@@ -100,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bxa-vineet/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/bxa-vineet/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bxa-vineet/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/bxa-vineet/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -146,4 +147,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bxa-vineet/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bxa-vineet/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bxa-vineet/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bxa-vineet/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
